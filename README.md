@@ -1,4 +1,4 @@
-# oopfinal
+# Final Project for OOP class
 
 Helllooo. Welcome to my final project for OOP.
 This project is a java written, javafx powered database management system for educational institution, in my case this is International Ala-too University.
